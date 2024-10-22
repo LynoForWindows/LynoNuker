@@ -1,8 +1,6 @@
+# Lyno Nuker V2
 
-```markdown
-# Project Name
-
-Brief description of your project.
+Official Remade project without using any Ai technology + it's open source safe :D
 
 ## Getting Started
 
@@ -10,9 +8,9 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Prerequisites
 
-Make sure you have Python installed on your system.
+Make sure you have Python installed on your system via Microsoft Store/ https://python.org/download
 
-```bash
+```python
 python -m pip install --upgrade pip
 ```
 
